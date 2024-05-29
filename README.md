@@ -1,4 +1,4 @@
-![MasterHead](https://tse3.mm.bing.net/th/id/OIG4.55ZnupTTomLBPjHlf2D0?pid=ImgGn)
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Rafiullah Ahmadi</h1>
 <h3 align="center">A passionate frontend developer from Afghanistan</h3>
 <img alt="Coder GIF" align="right"  height=300 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
