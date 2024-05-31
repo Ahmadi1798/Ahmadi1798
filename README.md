@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./github-header-image(1).png)
 <h1 align="center">Hi 👋, I'm Rafiullah Ahmadi</h1>
 <h3 align="center">A passionate Full-Stack Developer from Afghanistan</h3>
 <img alt="Coder GIF" align="right"  height=300 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
