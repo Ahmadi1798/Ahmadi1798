@@ -1,15 +1,15 @@
 ![Header](./github-header.png)
 <h1 align="center">Hi 👋, I'm Rafiullah Ahmadi</h1>
-<h3 align="center">A passionate Full-Stack Developer from Afghanistan</h3>
+<h3 align="center">A passionate Front-end Developer from Afghanistan</h3>
 <img alt="Coder GIF" align="right"  height=300 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadi1798&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadi1798" /> </p>
 
-- 🔭 I’m currently working on [to-do-app](to-do-app-one-liart.vercel.app)
+- 🔭 I’m currently working on Frontend Projects
 
 - 🌱 I’m currently learning **Full-Stack Web Development Course from Udemy**
 
-- 👯 I’m looking to collaborate on [to-do-app](to-do-app-one-liart.vercel.app)
+- 👯 I’m looking to collaborate on both Frontend and Backend Projects
 
 - 💬 Ask me about **react**
 
